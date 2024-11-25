@@ -2,7 +2,13 @@
 
 **`Cientista de Dados / Desenvolvedor BackEnd`**
 
-Me chamo João Pedro, tenho 25 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC Albert Einstein, com o curso técnico em informática. Atualmente, estou cursando Sistemas de Informação na USJT.
+👋 Olá! Sou João Pedro, desenvolvedor e entusiasta de tecnologia, iniciei minha jornada na área de TI com uma formação técnica em Informática pela ETEC Albert Einstein. Atualmente, estou cursando Sistemas de Informação na Universidade São Judas Tadeu (USJT).
+
+🎯 Tenho foco em Ciência de Dados e Machine Learning, áreas que me motivam a transformar dados em soluções práticas e impactantes. Também desenvolvo projetos Front-end e Back-end, buscando criar soluções completas para problemas reais.
+
+💻 Em meus repositórios, você encontrará projetos que refletem meus estudos e ideias, incluindo análises de dados, algoritmos de aprendizado de máquina e aplicações web.
+
+📫 Vamos trocar ideias ou colaborar em projetos! Explore meu trabalho e entre em contato. Juntos podemos criar algo incrível!
 
 <p align="left">
      <a href="www.linkedin.com/in/devjoaopedrojp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -147,12 +153,12 @@ Me chamo João Pedro, tenho 25 anos e sou natural de São Paulo. Concluí o ensi
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=devjoaopedrojp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=devjoaopedrojp&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<img 
+<!-- <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaopedrojp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  /> -->
 </p>

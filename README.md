@@ -4,7 +4,7 @@
 
 👋 Olá! Sou João Pedro, desenvolvedor e entusiasta de tecnologia, iniciei minha jornada na área de TI com uma formação técnica em Informática pela ETEC Albert Einstein. Atualmente, estou cursando Sistemas de Informação na Universidade São Judas Tadeu (USJT).
 
-🎯 Tenho foco em Ciência de Dados e Machine Learning, áreas que me motivam a transformar dados em soluções práticas e impactantes. Também desenvolvo projetos Front-end e Back-end, buscando criar soluções completas para problemas reais.
+🎯 Tenho foco em Ciência de Dados e Machine Learning, áreas que me motivam a transformar dados em soluções práticas e impactantes. Também desenvolvo projetos Front-end e Back-end, busco criar soluções completas para problemas reais.
 
 💻 Em meus repositórios, você encontrará projetos que refletem meus estudos e ideias, incluindo análises de dados, algoritmos de aprendizado de máquina e aplicações web.
 

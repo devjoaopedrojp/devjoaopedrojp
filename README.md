@@ -11,7 +11,7 @@
 📫 Vamos trocar ideias ou colaborar em projetos! Explore meu trabalho e entre em contato. Juntos podemos criar algo incrível!
 
 <p align="left">
-     <a href="www.linkedin.com/in/devjoaopedrojp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+     <a href="https://www.linkedin.com/in/devjoaopedrojp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
      </a> 
      <a href = "mailto:joaojp.bsilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
